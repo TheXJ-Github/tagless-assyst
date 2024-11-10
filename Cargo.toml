@@ -10,7 +10,6 @@ members = [
     "assyst-gateway",
     "assyst-proc-macro",
     "assyst-string-fmt",
-    "assyst-tag",
     "assyst-webserver",
 ]
 exclude = ["flux"]
